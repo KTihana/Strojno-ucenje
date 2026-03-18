@@ -1,3 +1,5 @@
+# Crtanje slike pomoću funkcija numpy.array i matplotlib.pyplot
+
 import numpy as np
 import matplotlib.pyplot as plt
  
