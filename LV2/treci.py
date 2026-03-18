@@ -1,3 +1,14 @@
+'''
+Zadatak 3
+Na temelju primjera 2.5. učitajte sliku 'tiger.png'. Manipulacijom odgovarajuće numpy matrice pokušajte:
+a) posvijetliti sliku (povećati brightness),
+b) zarotirati sliku za 90 stupnjeva u smjeru kazaljke na satu,
+c) zrcaliti sliku,
+d) smanjiti rezoluciju slike x puta (npr. 10 puta),
+e) prikazati samo drugu četvrtinu slike po širini, a prikazati sliku cijelu po visini; ostali dijelovi slike trebaju biti crni.
+'''
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 
